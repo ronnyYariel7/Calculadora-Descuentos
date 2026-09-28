@@ -1,0 +1,21 @@
+* { 
+  font-family: Arial, Helvetica, sans-serif; 
+  box-sizing: border-box; 
+  margin: 0%; 
+  padding: 0%; 
+} 
+
+/*body{
+    box-sizing: border-box;
+    height: 100%;
+    width: 100%;
+}*/
+
+#ingresarImporte{
+    background-color: rgb(42, 155, 255);
+    border: 3px solid black;
+    border-radius: 25px;
+    width: 50px;
+    height: 70px;
+
+}
